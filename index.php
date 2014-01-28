@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div id="container">
-		<!--<h1>Vanmeerbeeck een staande traditie</h1>-->
+		<!--<h1>Vanmeerbeeck een staande traditie</h1>
 		<div id="left">
 			<a href="#"><img src="./img/jen.png" alt=""></a>
 		</div>
@@ -17,7 +17,8 @@
 		</div>
 		<div id="mid">
 			<a href="#"><img src="./img/paint.png" alt=""></a>
-		</div>
+		</div>-->
+		<div id="tease"><img src="./img/jenJen5.png" alt="onze blitse website gauw online"></div>
 	</div>
 </body>
 </html>

@@ -9,7 +9,7 @@ h1{
 	margin: 0 auto;
 	color: white;
 }
-
+#tease{margin: 0 auto; width: 60%; padding-top: 29%;}
 #left{float:left;margin-right: 30px; background-color: #252525; width: 300px;height: 600px;}
 #right{float: right; background-color: #252525;width: 300px; height: 600px;}
 /*#mid{background-color: #252525; width: 300px;height: 600px;}*/
