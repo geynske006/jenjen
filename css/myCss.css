@@ -1,0 +1,15 @@
+body{
+	background-color: #6d6e70;
+	font-family: sans-serif;
+}
+#container{width: 960px; margin: 0 auto; padding-top: 30px;}
+
+h1{
+	width: 57%;
+	margin: 0 auto;
+	color: white;
+}
+
+#left{float:left;margin-right: 30px; background-color: #252525; width: 300px;height: 600px;}
+#right{float: right; background-color: #252525;width: 300px; height: 600px;}
+/*#mid{background-color: #252525; width: 300px;height: 600px;}*/
