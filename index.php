@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>VM pro Team</title>
+	<title>BLITZ</title>
 	<!--insert styles-->
 	<link rel="stylesheet" href="./css/myCss.css">
 </head>
@@ -18,7 +18,7 @@
 		<div id="mid">
 			<a href="#"><img src="./img/paint.png" alt=""></a>
 		</div>-->
-		<div id="tease"><img src="./img/jenJen5.png" alt="onze blitse website gauw online"></div>
+		<div id="tease"><img src="./img/jenJen6.png" alt="onze blitse website gauw online"></div>
 	</div>
 </body>
 </html>
