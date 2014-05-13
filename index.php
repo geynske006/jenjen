@@ -12,11 +12,13 @@
 	<div id="container">
 		<header id="menu">
 			<nav>
-				<ul id="startPageMenu">
-					<a href="#"><img src="./img/salesPoint.png" alt="Salespoint"></a>
-					<a href="#"><img src="./img/interiorDesign.png" alt="Interiordesign"></a>
-					<a href="http://www.vanmeerbeeck.biz/"><img src="./img/paintRenovate.png" alt="Painting renovation"></a>
-				</ul>
+				<div id="startPageMenu">
+					<ul>
+						<a href="#"><img id ="imgSales" src="./img/salesPoint.png" alt="Salespoint"></a>
+						<a href="#"><img src="./img/interiorDesign.png" alt="Interiordesign"></a>
+						<a href="http://www.vanmeerbeeck.biz/"><img src="./img/paintRenovate.png" alt="Painting renovation"></a>
+					</ul>
+				</div>
 			</nav>
 		</header>
 	</div>
