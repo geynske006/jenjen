@@ -4,21 +4,21 @@
 	<meta charset="UTF-8">
 	<title>BLITZ</title>
 	<!--insert styles-->
+	<link rel="stylesheet" href="./css/reset.css">
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="./css/myCss.css">
 </head>
 <body>
 	<div id="container">
-		<!--<h1>Vanmeerbeeck een staande traditie</h1>
-		<div id="left">
-			<a href="#"><img src="./img/jen.png" alt=""></a>
-		</div>
-		<div id="right">
-			<a href="#"><img src="./img/steve.png" alt=""></a>
-		</div>
-		<div id="mid">
-			<a href="#"><img src="./img/paint.png" alt=""></a>
-		</div>-->
-		<div id="tease"><img src="./img/jenJen6.png" alt="onze blitse website gauw online"></div>
+		<header id="menu">
+			<nav>
+				<ul id="startPageMenu">
+					<a href="#"><img src="./img/salesPoint.png" alt="Salespoint"></a>
+					<a href="#"><img src="./img/interiorDesign.png" alt="Interiordesign"></a>
+					<a href="http://www.vanmeerbeeck.biz/"><img src="./img/paintRenovate.png" alt="Painting renovation"></a>
+				</ul>
+			</nav>
+		</header>
 	</div>
 </body>
 </html>
