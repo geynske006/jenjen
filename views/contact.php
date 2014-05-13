@@ -4,7 +4,7 @@
 ?>
 	
 <!-- Body comes here -->
-<div>interior</div>
+<div>contact</div>
 <?php 
 	include_once '../templates/footer.php';
 ?>

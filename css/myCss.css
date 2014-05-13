@@ -21,3 +21,7 @@ body{
 #imgSales{
 	margin-left: 17%;
 }
+#menu li{
+	display: inline;
+	text-decoration: none;
+}
