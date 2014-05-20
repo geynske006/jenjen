@@ -22,8 +22,8 @@
 					for ($i=0; $i < $fileCount; $i++) { /*Loop @ times the total of the files in folder*/
 						$b = $imgB[$i]; /*put big pic name in var to use it in linking for gallery*/
 						$s = $imgS[$i]; /*the same shizzle as above*/
-						echo 	"<a class='fancybox-sp' data-fancybox-group='gallery'   href='$b'>
-								<img class='afb' src='$s' alt=''/>
+						echo 	"<a class='fancybox-sp' data-fancybox-group='gallery' href='$b'>
+									<img class='afb' src='$s' alt=''>
 				    			</a>";
 					}
 				?>
