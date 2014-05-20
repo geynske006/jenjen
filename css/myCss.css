@@ -212,3 +212,8 @@ a:hover{
 	margin-right: auto;
 	height: 500px;
 }
+#interiorHeader{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}

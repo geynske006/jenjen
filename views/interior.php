@@ -5,7 +5,7 @@
 ?>
 	
 <!-- Body comes here -->
-	<h3>selecteer een afbeelding om onze ontwerpen uitgebreider te bekijken</h3>
+	<h3 id="interiorHeader">selecteer een afbeelding om onze ontwerpen uitgebreider te bekijken</h3>
 	<div class="img-sp">
 		<a class='fancybox-sp' data-fancybox-group='gallery'   href='../img/sales/buitenvlag.jpg'>
 			<img class='afb' src='../img/sales/buitenvlag.jpg' alt=''>
