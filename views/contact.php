@@ -27,6 +27,9 @@
 			<div class="gesloten">gesloten <br></div> 
 		</div>
 	</div>
+	<?php 
+		include_once '../templates/maps.php';
+	 ?>
 	<div id="winkelgegevens">
 		<div id="titelGegevens"><img src="../img/logo.png" alt="logo bedrijf">interiordesign</div>
 		<div id="andereGegevens">
