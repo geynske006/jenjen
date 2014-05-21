@@ -5,8 +5,9 @@
 ?>
 	
 <!-- Body comes here -->
-<div id="sales">
-	<h2>Op ons verkooppunt kan u volgende merken terugvinden</h2>
+<div class="pageContent">
+		<div id="sales">
+	<h2 class="headers">Op ons verkooppunt kan u volgende merken terugvinden</h2>
 	<div id="merkenOpsomming">
 		<h4>Salt &#38; Pepper</h4>
 			<div class="img-sp">
@@ -15,7 +16,7 @@
 					$imgB = glob($dirB . "*.png"); /*get all the filenames of the pics*/
 					$fileCount = count($imgB);/*count all files in the pics-folder for later use*/
 
-					$dirS = "../img/interior/sp/"; /*directory for the thumbnails*/
+					$dirS = "../img/interior/sp/s/"; /*directory for the thumbnails*/
 					$imgS = glob($dirS . "*.png"); /*get all filenames. NOTE: needs to be exactly 
 					the same as in the big folder or loop will not work correctly*/
 
@@ -35,7 +36,7 @@
 					$imgB = glob($dirB . "*.png"); /*get all the filenames of the pics*/
 					$fileCount = count($imgB);/*count all files in the pics-folder for later use*/
 
-					$dirS = "../img/interior/angrug/"; /*directory for the thumbnails*/
+					$dirS = "../img/interior/angrug/s/"; /*directory for the thumbnails*/
 					$imgS = glob($dirS . "*.png"); /*get all filenames. NOTE: needs to be exactly 
 					the same as in the big folder or loop will not work correctly*/
 
@@ -57,7 +58,7 @@
 					$imgB = glob($dirB . "*.png"); /*get all the filenames of the pics*/
 					$fileCount = count($imgB);/*count all files in the pics-folder for later use*/
 
-					$dirS = "../img/interior/esolo/"; /*directory for the thumbnails*/
+					$dirS = "../img/interior/esolo/s/"; /*directory for the thumbnails*/
 					$imgS = glob($dirS . "*.png"); /*get all filenames. NOTE: needs to be exactly 
 					the same as in the big folder or loop will not work correctly*/
 
@@ -77,7 +78,7 @@
 					$imgB = glob($dirB . "*.png"); /*get all the filenames of the pics*/
 					$fileCount = count($imgB);/*count all files in the pics-folder for later use*/
 
-					$dirS = "../img/interior/milfi/"; /*directory for the thumbnails*/
+					$dirS = "../img/interior/milfi/s/"; /*directory for the thumbnails*/
 					$imgS = glob($dirS . "*.png"); /*get all filenames. NOTE: needs to be exactly 
 					the same as in the big folder or loop will not work correctly*/
 
@@ -91,6 +92,8 @@
 				?>
 			</div>
 	</div>
+</div>
+
 </div>
 <?php 
 	include_once '../templates/fancybox.php';

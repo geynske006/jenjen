@@ -106,7 +106,7 @@ body{
 		}
 	#andereGegevens{
 		font-family:arial, sans-serif;
-		font-size: 10pt;
+		font-size: 70%;
 		width: 30%;
 		text-align: center;
 		margin-right: auto;
@@ -193,11 +193,13 @@ a:hover{
 }
 .img-sp{
 	margin-top: 2%;
-	margin-bottom: 4%;
+	margin-bottom: 2%;
 }
 .img-sp img{
 	width: 150px;
-	height: 150px;
+	margin-bottom: 4%;
+	margin-left: 2%;
+	/*height: 150px;*/
 }
 /*
  * interior Page
@@ -212,8 +214,37 @@ a:hover{
 	margin-right: auto;
 	height: 500px;
 }
-#interiorHeader{
-	width: 90%;
+.headers{
+	width: 85%;
 	margin-left: auto;
 	margin-right: auto;
+	padding-top: 2%;
+	text-align: center;
+	font-size: 135%;
+}
+.aanbiedingMerken{
+	padding-top: 1%;
+	font-family: arial, sans-serif;
+	height: 90px;
+	background-color: #3B3B3B;
+}
+.aanbiedingMerken h4{
+	color: #FFE800;
+	width: 57%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.merknamen{
+	font-size: 90%;
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*
+ * pagecontent: kader
+ */
+
+.pageContent{
+	background-color: #3B3B3B;
 }
