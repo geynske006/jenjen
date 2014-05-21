@@ -11,6 +11,9 @@
 	<link rel="stylesheet" type="text/css" href="../fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" />
 	<link rel="stylesheet" href="./css/myCss.css">
 	<link rel="stylesheet" href="../css/myCss.css">
+	<link rel="icon" 
+    	type="image/png" 
+      	href="favicon.png">
 </head>
 <body>
 	<div id="container">
