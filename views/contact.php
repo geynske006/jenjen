@@ -48,7 +48,7 @@
 		 20% op alle b&#233;c&#233; raamdecoratie
 		</div>
 		<div class="dot"></div> <div class="infoTekst">Opgelet: werken mechelsesteenweg omleiding via de oude keulseweg</div>
-		<div class="dot"></div> <div class="infoTekstLast">Hups hups hups</div>
+		<div class="dot"></div> <div class="infoTekstLast">Breng ons gauw een bezoek!</div>
 	</div>
 </div>
 
