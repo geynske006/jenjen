@@ -55,11 +55,11 @@
 			<div class="img-sp">
 				<?php 
 					$dirB = "../img/interior/esolo/"; /*Directory set for bigger pics*/
-					$imgB = glob($dirB . "*.png"); /*get all the filenames of the pics*/
+					$imgB = glob($dirB . "*.jpg"); /*get all the filenames of the pics*/
 					$fileCount = count($imgB);/*count all files in the pics-folder for later use*/
 
 					$dirS = "../img/interior/esolo/s/"; /*directory for the thumbnails*/
-					$imgS = glob($dirS . "*.png"); /*get all filenames. NOTE: needs to be exactly 
+					$imgS = glob($dirS . "*.jpg"); /*get all filenames. NOTE: needs to be exactly 
 					the same as in the big folder or loop will not work correctly*/
 
 					for ($i=0; $i < $fileCount; $i++) { /*Loop @ times the total of the files in folder*/
